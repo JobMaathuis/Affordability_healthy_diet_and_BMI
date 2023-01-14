@@ -1,2 +1,3 @@
 bmi: 'data/BMI_age_standardised_country.csv'
 food_affordability: 'data/food_affordability_per_country.csv'
+europe_geojson: 'https://raw.githubusercontent.com/leakyMirror/map-of-europe/master/GeoJSON/europe.geojson'
