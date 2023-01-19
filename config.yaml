@@ -1,3 +1,4 @@
 bmi: 'data/BMI_age_standardised_country.csv'
 food_affordability: 'data/food_affordability_per_country.csv'
+country_codes: 'https://gist.githubusercontent.com/stevewithington/20a69c0b6d2ff846ea5d35e5fc47f26c/raw/13716ceb2f22b5643ce5e7039643c86a0e0c6da6/country-and-continent-codes-list-csv.csv'
 europe_geojson: 'https://raw.githubusercontent.com/leakyMirror/map-of-europe/master/GeoJSON/europe.geojson'
