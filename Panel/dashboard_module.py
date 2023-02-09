@@ -100,7 +100,7 @@ class Dashboard:
         
         Arguments:
         title (str): title of the page
-        
+         
         Returns:
         None
         '''
