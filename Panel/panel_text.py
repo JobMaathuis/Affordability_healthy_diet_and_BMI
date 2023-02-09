@@ -25,6 +25,47 @@ exploration1 = '''
 In this section the graphs obtained from the data explorations are shown.\n
 '''
 
+exploration2 = '''
+The distribution of the affordability of a healthy diet dataset can be visualised using a barplot.\n
+'''
+
+exploration3 = '''
+There are a lot of outliers in the upper range.  
+This means that in certain countries the healthy diet is very unaffordable.  
+All of these countries are poor countries located in Africa.  
+Since there is a lot of poverty in Africa, it makes sense that a healthy diet is also very unaffordable, just like all the other food.  
+The same problem may also occur in other poor countries outside Africa.  
+Because of this reason and the intention of this project the decision is made to only include countries located in Europe, where no real poor countries are located.  
+There are 43 countries left after selecting European countries.  
+Because a lot of data is removed we can again have a look at the distribution of the data.\n
+'''
+
+exploration4 = '''
+The distribution of the data is now better.  
+There are two outliers (Bulgaria and Serbia), because there is no reason to remove them they are not removed.\n
+'''
+
+exploration5 = '''
+The distribution of the BMI dataset can be visualised using a barplot.\n
+'''
+
+exploration6 = '''
+The mean BMI data shows a nice distribution for both genders.  
+The data of men is a bit higher in all quartiles, and therefor also has a higher median.  
+The women data has a higher spread in the dsitrbution compared to men, and also has an outlier on both sides.
+The outliers are the Mean BMI of Turkey (upper outier) and Switserland (lower outlier), since there again is no reason to remove these outliers so they are not removed from the dataset. \n
+Next we can have a look at each mean BMI per country per sex.  
+A barplot is chosen where also the 95% confidence interval is shown, with whiskers.  
+Since there are a lot of country, and each country has a mean BMI for each gender it is almost impossible to show this all at once.  
+Therefore, panel widgets are used in which the user can select which data is shown.  
+(multiple values can be selected by holding ctrl or shift and clicking mutlitple countries or genders or by clicking and dragging the mouse)
+'''
+
+exploration7 = '''
+As can be explored above, most of the countries have similar BMI's.  
+When taking the error or 95% confidince intervals into account not much variation can be seen between most of the countries.
+'''
+
 geomap = '''
 Below a geographical overview of the Affordability of a healthy diet and the BMI data can be seen.  
 You can choose between the two datasets using the toggle on the top right of the geomap. \n
