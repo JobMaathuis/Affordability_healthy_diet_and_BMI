@@ -26,6 +26,9 @@ In this project python (`3.10.8`) is used. The used packages are listed below an
 | bokeh            | `2.4.3`  |
 | folium           | `0.13.0` |
 | statsmodels      | `0.13.2` |
+| panel            | `0.13.1` |
+| scipy            | `1.9.3`  |
+| branca           | `0.6.0`  |
 
 
 ## Usage
@@ -47,7 +50,6 @@ The owner of this repository can be contacted by emailting to:
 
 j.maathuis@st.hanze.nl
 
-## License
 
 
 
