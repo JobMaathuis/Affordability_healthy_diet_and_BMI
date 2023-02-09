@@ -1,7 +1,7 @@
 # Relationship between the affordability of a healthy diet and body mass index
 
 ## The project
-In Europe and Northern America 17.3 billion people can not afford a healthy diet. It is known that prices rise with the increase in the level of diet quality. In general, a healthy diet is 60% more expensive than an energy sufficient diet `[1][2]`. Therfore it can be speculated that the affordability of a healthy diet may lead to poor dietery decisions. These poor dietery decisions may be reflected on body mass index (BMI) In this project the relationship between the affordability of a healthy diet and BMI is studied. 
+In Europe and Northern America 17.3 billion people can not afford a healthy diet. It is known that prices rise with the increase in the level of diet quality. In general, a healthy diet is 60% more expensive than an energy sufficient diet `[1][2]`. Therfore it can be speculated that the affordability of a healthy diet may lead to poor dietery decisions. These poor dietery decisions may be reflected on body mass index (BMI) In this project the relationship between the affordability of a healthy diet and BMI is studied. The hypothesis is that the mean BMI increases when a healthy diet becomes less affordable.
 
 ## Data acquisition
 
